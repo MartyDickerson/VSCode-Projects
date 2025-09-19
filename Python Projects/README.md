@@ -1,4 +1,4 @@
-# 📝 To-Do List CLI App
+# 📝 To-Do List CLI App (Task Manager)
 
 A simple command-line **task manager** built with Python. Add, mark, and remove tasks with ease.  
 Tasks are saved in a JSON file so you don’t lose progress.
